@@ -2,11 +2,9 @@
 Version - solidity ^0.5.0<br>
 Source - openzeppelin-contracts-2.5.1
 
-# Daily Quest - Homepage
-Https://dailyquest.io
-
-# Daily Quest - Quest Drop
-Https://drop.dailyquest.io
+# Daily Quest
+Homepage - Https://dailyquest.io<br>
+Quest Drop - Https://drop.dailyquest.io
 
 # Contract address
 0x9f809d13ec9085d9cff3034d730fb4b4b48b1064
