@@ -1,5 +1,5 @@
 # Quest Token Imformation
-Version - solidity ^0.5.0
+Version - solidity ^0.5.0<br>
 Source - openzeppelin-contracts-2.5.1
 
 # Daily Quest - Homepage
@@ -18,9 +18,9 @@ Https://drop.dailyquest.io
 ERC-20
 
 # Token Allocation
-50% Token Allocation
-10% Private Sale
-10% Marketing
-10% Advisor & Partner
-10% Development
-10% Team
+50% Token Allocation<br>
+10% Private Sale<br>
+10% Marketing<br>
+10% Advisor & Partner<br>
+10% Development<br>
+10% Team<br>
