@@ -24,5 +24,3 @@ ERC-20
 10% Advisor & Partner
 10% Development
 10% Team
-
-# Quest-Token
