@@ -1,13 +1,11 @@
-Quest Token
-
-# Token Imformation
+# Quest Token Imformation
 Version - solidity ^0.5.0
 Source - openzeppelin-contracts-2.5.1
 
-# Dailyquest - Homepage
+# Daily Quest - Homepage
 Https://dailyquest.io
 
-# Dailyquest - Airdrop
+# Daily Quest - Quest Drop
 Https://drop.dailyquest.io
 
 # Contract address
